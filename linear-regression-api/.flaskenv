@@ -1,2 +1,0 @@
-FLASK_APP=linear_regression.py
-FLASK_DEBUG=1
